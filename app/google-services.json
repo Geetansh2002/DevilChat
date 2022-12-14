@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294044406159",
+    "project_id": "devilchat-39daa",
+    "storage_bucket": "devilchat-39daa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294044406159:android:d343ca0c682bf6e81dfbfa",
+        "android_client_info": {
+          "package_name": "com.example.devilchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294044406159-6tfsvslg8e2lgtfc6cq8l2dqpa668df6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDazib5BlJdNR0-U9HPgaFzgPkAp8DdONA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294044406159-6tfsvslg8e2lgtfc6cq8l2dqpa668df6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
